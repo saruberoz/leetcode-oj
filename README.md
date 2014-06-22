@@ -1,12 +1,164 @@
 leetcode-oj
 ===========
 
-Leetcode OJ Solution
+[Leetcode OJ](https://oj.leetcode.com/problems/) Solution
 
 
-Progress
+### Release Notes
+If I do find a better way to optimize my code and use other people's work, the file should mention the original author's name. If the original author does not want to grant me permission, please contact me at wilson.sumanang@yahoo.com.
+Other than that all the solution is my personal work to spend my leisure time.
 
-**Title**																        **Add Date**
-[ ] Reverse Words in a String										2014-03-05
-[ ] Evaluate Reverse Polish Notation						2013-11-27
-[ ] Max Points on a Line											  2013-11-22
+
+### Problem List
+- [ ] **Progress [0/151]**
+  - [ ] Reverse Words in a String
+  - [ ] Evaluate Reverse Polish Notation
+  - [ ] Max Points on a Line
+  - [ ] Sort List
+  - [ ] Insertion Sort List
+  - [ ] LRU Cache
+  - [ ] Binary Tree Postorder Traversal
+  - [ ] Binary Tree Preorder Traversal
+  - [ ] Reorder List
+  - [ ] Linked List Cycle II
+  - [ ] Linked List Cycle
+  - [ ] Word Break II
+  - [ ] Word Break
+  - [ ] Copy List with Random Pointer
+  - [ ] Single Number II
+  - [ ] Single Number
+  - [ ] Candy
+  - [ ] Gas Station
+  - [ ] Clone Graph
+  - [ ] Palindrome Partitioning II
+  - [ ] Palindrome Partitioning
+  - [ ] Surrounded Regions
+  - [ ] Sum Root to Leaf Numbers
+  - [ ] Longest Consecutive Sequence
+  - [ ] Word Ladder II
+  - [ ] Word Ladder
+  - [ ] Valid Palindrome
+  - [ ] Binary Tree Maximum Path Sum
+  - [ ] Best Time to Buy and Sell Stock III
+  - [ ] Best Time to Buy and Sell Stock II
+  - [ ] Best Time to Buy and Sell Stock
+  - [ ] Triangle
+  - [ ] Pascal's Triangle II
+  - [ ] Pascal's Triangle
+  - [ ] Populating Next Right Pointers in Each Node II
+  - [ ] Populating Next Right Pointers in Each Node
+  - [ ] Distinct Subsequences
+  - [ ] Flatten Binary Tree to Linked List
+  - [ ] Path Sum II
+  - [ ] Path Sum
+  - [ ] Minimum Depth of Binary Tree
+  - [ ] Balanced Binary Tree
+  - [ ] Convert Sorted List to Binary Search Tree
+  - [ ] Convert Sorted Array to Binary Search Tree
+  - [ ] Binary Tree Level Order Traversal II
+  - [ ] Construct Binary Tree from Inorder and Postorder Traversal
+  - [ ] Construct Binary Tree from Preorder and Inorder Traversal
+  - [ ] Maximum Depth of Binary Tree
+  - [ ] Binary Tree Zigzag Level Order Traversal
+  - [ ] Binary Tree Level Order Traversal
+  - [ ] Symmetric Tree
+  - [ ] Same Tree
+  - [ ] Recover Binary Search Tree
+  - [ ] Validate Binary Search Tree
+  - [ ] Interleaving String
+  - [ ] Unique Binary Search Trees II
+  - [ ] Unique Binary Search Trees
+  - [ ] Binary Tree Inorder Traversal
+  - [ ] Restore IP Addresses
+  - [ ] Reverse Linked List II
+  - [ ] Subsets II
+  - [ ] Decode Ways
+  - [ ] Gray Code
+  - [ ] Merge Sorted Array
+  - [ ] Scramble String
+  - [ ] Partition List
+  - [ ] Maximal Rectangle
+  - [ ] Largest Rectangle in Histogram
+  - [ ] Remove Duplicates from Sorted List II
+  - [ ] Remove Duplicates from Sorted List
+  - [ ] Search in Rotated Sorted Array II
+  - [ ] Remove Duplicates from Sorted Array II
+  - [ ] Word Search
+  - [ ] Subsets
+  - [ ] Combinations
+  - [ ] Minimum Window Substring
+  - [ ] Sort Colors
+  - [ ] Search a 2D Matrix
+  - [ ] Set Matrix Zeroes
+  - [ ] Edit Distance
+  - [ ] Simplify Path
+  - [ ] Climbing Stairs
+  - [ ] Sqrt(x)
+  - [ ] Text Justification
+  - [ ] Plus One
+  - [ ] Valid Number
+  - [ ] Add Binary
+  - [ ] Merge Two Sorted Lists
+  - [ ] Minimum Path Sum
+  - [ ] Unique Paths II
+  - [ ] Unique Paths
+  - [ ] Rotate List
+  - [ ] Permutation Sequence
+  - [ ] Spiral Matrix II
+  - [ ] Length of Last Word
+  - [ ] Insert Interval
+  - [ ] Merge Intervals
+  - [ ] Jump Game
+  - [ ] Spiral Matrix
+  - [ ] Maximum Subarray
+  - [ ] N-Queens II
+  - [ ] N-Queens
+  - [ ] Pow(x, n)
+  - [ ] Anagrams
+  - [ ] Rotate Image
+  - [ ] Permutations II
+  - [ ] Permutations
+  - [ ] Jump Game II
+  - [ ] Wildcard Matching
+  - [ ] Multiply Strings
+  - [ ] Trapping Rain Water
+  - [ ] First Missing Positive
+  - [ ] Combination Sum II
+  - [ ] Combination Sum
+  - [ ] Count and Say
+  - [ ] Sudoku Solver
+  - [ ] Valid Sudoku
+  - [ ] Search Insert Position
+  - [ ] Search for a Range
+  - [ ] Search in Rotated Sorted Array
+  - [ ] Longest Valid Parentheses
+  - [ ] Next Permutation
+  - [ ] Substring with Concatenation of All Words
+  - [ ] Divide Two Integers
+  - [ ] Implement strStr()
+  - [ ] Remove Element
+  - [ ] Remove Duplicates from Sorted Array
+  - [ ] Reverse Nodes in k-Group
+  - [ ] Swap Nodes in Pairs
+  - [ ] Merge k Sorted Lists
+  - [ ] Generate Parentheses
+  - [ ] Valid Parentheses
+  - [ ] Remove Nth Node From End of List
+  - [ ] Letter Combinations of a Phone Number
+  - [ ] 4Sum
+  - [ ] 3Sum Closest
+  - [ ] 3Sum
+  - [ ] Longest Common Prefix
+  - [ ] Roman to Integer
+  - [ ] Integer to Roman
+  - [ ] Container With Most Water
+  - [ ] Regular Expression Matching
+  - [ ] Palindrome Number
+  - [ ] String to Integer (atoi)
+  - [ ] Reverse Integer
+  - [ ] ZigZag Conversion
+  - [ ] Longest Palindromic Substring
+  - [ ] Add Two Numbers
+  - [ ] Longest Substring Without Repeating Characters
+  - [ ] Median of Two Sorted Arrays
+  - [ ] Two Sum
