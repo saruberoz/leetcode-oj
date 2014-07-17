@@ -10,13 +10,13 @@ Other than that all the solution is my personal work to spend my leisure time.
 
 
 ### Problem List
-- [ ] **Progress [1/151]**
+- [ ] **Progress [8/151]**
   - [x] Reverse Words in a String
   - [ ] Evaluate Reverse Polish Notation
   - [ ] Max Points on a Line
   - [ ] Sort List
   - [ ] Insertion Sort List
-  - [ ] LRU Cache
+  - [x] LRU Cache
   - [ ] Binary Tree Postorder Traversal
   - [ ] Binary Tree Preorder Traversal
   - [ ] Reorder List
@@ -26,7 +26,7 @@ Other than that all the solution is my personal work to spend my leisure time.
   - [ ] Word Break
   - [ ] Copy List with Random Pointer
   - [ ] Single Number II
-  - [ ] Single Number
+  - [x] Single Number
   - [ ] Candy
   - [ ] Gas Station
   - [ ] Clone Graph
@@ -93,7 +93,7 @@ Other than that all the solution is my personal work to spend my leisure time.
   - [ ] Edit Distance
   - [ ] Simplify Path
   - [ ] Climbing Stairs
-  - [ ] Sqrt(x)
+  - [x] Sqrt(x)
   - [ ] Text Justification
   - [ ] Plus One
   - [ ] Valid Number
@@ -142,7 +142,7 @@ Other than that all the solution is my personal work to spend my leisure time.
   - [ ] Swap Nodes in Pairs
   - [ ] Merge k Sorted Lists
   - [ ] Generate Parentheses
-  - [ ] Valid Parentheses
+  - [x] Valid Parentheses
   - [ ] Remove Nth Node From End of List
   - [ ] Letter Combinations of a Phone Number
   - [ ] 4Sum
@@ -155,10 +155,10 @@ Other than that all the solution is my personal work to spend my leisure time.
   - [ ] Regular Expression Matching
   - [ ] Palindrome Number
   - [ ] String to Integer (atoi)
-  - [ ] Reverse Integer
+  - [x] Reverse Integer
   - [ ] ZigZag Conversion
   - [ ] Longest Palindromic Substring
-  - [ ] Add Two Numbers
-  - [ ] Longest Substring Without Repeating Characters
+  - [x] Add Two Numbers
+  - [x] Longest Substring Without Repeating Characters
   - [ ] Median of Two Sorted Arrays
   - [ ] Two Sum
